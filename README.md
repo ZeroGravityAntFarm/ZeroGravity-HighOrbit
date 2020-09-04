@@ -1,2 +1,2 @@
 # ZeroGravity-HighOrbit
-Maps, Variants, and Config for the HighOrbit server.
+Maps, Variants, and config for the HighOrbit server.
