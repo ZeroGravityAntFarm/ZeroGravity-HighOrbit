@@ -37,6 +37,7 @@ jobs:
         overwrite: 1
         
   CopyLocal:
+    needs: [DeployMaps, DeployVoteConfig]
     name: Copy Local Files
     runs-on: ubuntu-latest
     steps:
