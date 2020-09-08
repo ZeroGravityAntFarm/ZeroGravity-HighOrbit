@@ -16,8 +16,8 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: 22
-        source: "voting.json"
-        target: "~/containers/eldewrito/cache/"
+        source: "maps"
+        target: "/home/${{ secrets.USERNAME }}/containers/eldewrito/cache/"
         overwrite: 1
         
   DeployVoteConfig:
@@ -33,18 +33,19 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: 22
         source: "voting.json"
-        target: "~/containers/eldewrito/cache/"
+        target: "/home/${{ secrets.USERNAME }}/containers/eldewrito/cache/"
         overwrite: 1
         
   CopyLocal:
+    needs: [DeployMaps, DeployVoteConfig]
     name: Copy Local Files
     runs-on: ubuntu-latest
     steps:
     - name: executing remote ssh commands using password
       uses: appleboy/ssh-action@master
       with:
-        host: ${{ secrets.LOWORBITHOST }}
+        host: ${{ secrets.HIGHORBITHOST }}
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: 22
-        script: echo ${{ secrets.PASSWORD }} | sudo -S ~/containers/eldewrito/cache/copy.sh
+        script: echo ${{ secrets.PASSWORD }} | sudo -S /home/${{ secrets.USERNAME }}/containers/eldewrito/cache/copy.sh
