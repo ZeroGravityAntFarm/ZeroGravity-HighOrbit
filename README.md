@@ -1,5 +1,5 @@
 # ZeroGravity-HighOrbit
-Maps, Variants, and config for the HighOrbit server.
+Maps, Variants, and Config for the HighOrbit server.
 
 
 ## Build Status:
