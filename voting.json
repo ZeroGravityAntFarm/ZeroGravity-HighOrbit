@@ -561,6 +561,36 @@
       ]
     },
     {
+      "displayName": "Skycastle 0.9VL",
+      "typeName": "Skycastle 0.9VL",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Skycastle 0.9VL",
+          "mapName": "Skycastle 0.9VL"
+        }
+      ]
+    },	
+    {
+      "displayName": "Pandemic Express",
+      "typeName": "Pandemic Express V1.1",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Pandemic Express V1.1",
+          "mapName": "Pandemic Express V1.1L"
+        }
+      ]
+    },
+    {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
       "commands": [
