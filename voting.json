@@ -546,6 +546,21 @@
       ]
     },
     {
+      "displayName": "BruhField",
+      "typeName": "Siege Of Shangi",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Siege Of Shangi",
+          "mapName": "Siege Of Shangi"
+        }
+      ]
+    },
+    {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
       "commands": [
