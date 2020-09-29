@@ -591,6 +591,21 @@
       ]
     },
     {
+      "displayName": "Isolation Point",
+      "typeName": "Isolation Point",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "zombies",
+          "mapName": "Isolation Point"
+        }
+      ]
+    },
+    {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
       "commands": [
