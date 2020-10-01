@@ -606,21 +606,6 @@
       ]
     },
     {
-      "displayName": "Castle Crashers",
-      "typeName": "Castle Crashers",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Valhalla 5 castle",
-          "mapName": "Castle Crashers"
-        }
-      ]
-    },
-    {
       "displayName": "Death Mountain",
       "typeName": "Death Mountain",
       "commands": [
