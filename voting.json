@@ -606,6 +606,20 @@
       ]
     },
     {
+      "displayName": "MT's Fiesta",
+      "typeName": "MT Fiesta",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",  
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "MT Fiesta",
+          "mapName": "MT Fiesta"
+        }
+      ]
+    },
+    {
       "displayName": "Death Mountain",
       "typeName": "Death Mountain",
       "commands": [
