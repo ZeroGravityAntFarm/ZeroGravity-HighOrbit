@@ -620,17 +620,17 @@
       ]
     },
     {
-      "displayName": "Death Mountain",
-      "typeName": "Death Mountain",
+      "displayName": "Death Mountain S",
+      "typeName": "Death Mountain S",
       "commands": [
         "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
+        "Server.AssassinationEnabled 1",
         "Server.NumberOfTeams 2"
       ],
       "SpecificMaps": [
         {
-          "displayName": "Death Mountain",
-          "mapName": "Death Mountain"
+          "displayName": "Death Mountain S",
+          "mapName": "Death Mountain S"
         }
       ]
     },
