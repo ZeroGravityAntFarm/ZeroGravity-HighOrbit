@@ -649,6 +649,21 @@
       ]
     },
     {
+      "displayName": "Flood Bridge",
+      "typeName": "Flood Bridge",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Flood Bridge",
+          "mapName": "Flood Bridge"
+        }
+      ]
+    },
+    {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
       "commands": [
