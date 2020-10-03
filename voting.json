@@ -561,8 +561,8 @@
       ]
     },
     {
-      "displayName": "Skycastle 1.0VL",
-      "typeName": "Skycastle 1.0VL",
+      "displayName": "Skycastle 1.1VL",
+      "typeName": "Skycastle 1.1VL",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -570,8 +570,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Skycastle 1.0VL",
-          "mapName": "Skycastle 1.0VL"
+          "displayName": "Skycastle 1.1VL",
+          "mapName": "Skycastle 1.1VL"
         }
       ]
     },	
