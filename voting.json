@@ -678,6 +678,22 @@
         }
       ]
     },
+    },
+    {
+      "displayName": "Argo",
+      "typeName": "Argo",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Argo",
+          "mapName": "Argo"
+        }
+      ]
+    },
     {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
