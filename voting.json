@@ -561,8 +561,8 @@
       ]
     },
     {
-      "displayName": "Skycastle 0.9VL",
-      "typeName": "Skycastle 0.9VL",
+      "displayName": "Skycastle 1.1VL",
+      "typeName": "Skycastle 1.1VL",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -570,8 +570,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Skycastle 0.9VL",
-          "mapName": "Skycastle 0.9VL"
+          "displayName": "Skycastle 1.1VL",
+          "mapName": "Skycastle 1.1VL"
         }
       ]
     },	
@@ -620,17 +620,17 @@
       ]
     },
     {
-      "displayName": "Death Mountain",
-      "typeName": "Death Mountain",
+      "displayName": "Death Mountain S",
+      "typeName": "Death Mountain S",
       "commands": [
         "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
+        "Server.AssassinationEnabled 1",
         "Server.NumberOfTeams 2"
       ],
       "SpecificMaps": [
         {
-          "displayName": "Death Mountain",
-          "mapName": "Death Mountain"
+          "displayName": "Death Mountain S",
+          "mapName": "Death Mountain S"
         }
       ]
     },
@@ -660,6 +660,21 @@
         {
           "displayName": "Flood Bridge",
           "mapName": "Flood Bridge"
+        }
+      ]
+    },
+    {
+      "displayName": "Fallout Infection",
+      "typeName": "Fallout Infection",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Fallout Infection",
+          "mapName": "Fallout Infection"
         }
       ]
     },
