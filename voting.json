@@ -635,16 +635,16 @@
       ]
     },
     {
-      "displayName": "Fiesta Frig",
-      "typeName": "Fiesta Frig",
+      "displayName": "Fiesta Hangar",
+      "typeName": "Fiesta Hangar",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0"
       ],
       "SpecificMaps": [
         {
-          "displayName": "Fiesta Frig",
-          "mapName": "Fiesta Frig"
+          "displayName": "Fiesta Hangar",
+          "mapName": "Fiesta Hangar"
         }
       ]
     },
