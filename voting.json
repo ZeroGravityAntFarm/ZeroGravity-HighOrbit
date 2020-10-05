@@ -692,6 +692,21 @@
           "mapName": "Argo"
         }
       ]
+    },    },
+    {
+      "displayName": "Predator",
+      "typeName": "Predator",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Predator",
+          "mapName": "Predator"
+        }
+      ]
     },
     {
       "displayName": "Escape!",
