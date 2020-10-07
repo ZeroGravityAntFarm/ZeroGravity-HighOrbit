@@ -126,21 +126,6 @@
       ]
     },
     {
-      "displayName": "DK",
-      "typeName": "Donkey Kong",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Donkey Kong",
-          "mapName": "Donkey Kong"
-        }
-      ]
-    },
-    {
       "displayName": "Drive!",
       "typeName": "Drive! Rocketway",
       "commands": [
@@ -287,21 +272,6 @@
         {
           "displayName": "FatKidRevenge",
           "mapName": "FatKidRevenge"
-        }
-      ]
-    },
-    {
-      "displayName": "FlySwat",
-      "typeName": "Fly Swatter",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Fly Swatter",
-          "mapName": "Fly Swatter"
         }
       ]
     },
@@ -542,21 +512,6 @@
         {
           "displayName": "The Train",
           "mapName": "The Train"
-        }
-      ]
-    },
-    {
-      "displayName": "BruhField",
-      "typeName": "Siege Of Shangi",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Siege Of Shangi",
-          "mapName": "Siege Of Shangi"
         }
       ]
     },
