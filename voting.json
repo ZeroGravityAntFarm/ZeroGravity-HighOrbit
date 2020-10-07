@@ -679,6 +679,21 @@
       ]
     },
     {
+      "displayName": "DoD Party Bus",
+      "typeName": "DoD Party Bus",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "DoD Party Bus",
+          "mapName": "DoD Party Bus"
+        }
+      ]
+    },
+    {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
       "commands": [
