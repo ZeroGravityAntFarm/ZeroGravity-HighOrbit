@@ -604,6 +604,20 @@
       ]
     },
     {
+      "displayName": "Clock",
+      "typeName": "Clock",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Clock",
+          "mapName": "Clock"
+        }
+      ]
+    },
+    {
       "displayName": "Flood Bridge",
       "typeName": "Flood Bridge",
       "commands": [
