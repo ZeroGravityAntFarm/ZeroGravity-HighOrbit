@@ -617,6 +617,21 @@
         }
       ]
     },
+    },
+    {
+      "displayName": "KillBox",
+      "typeName": "KillBox",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "KillBox",
+          "mapName": "KillBox"
+        }
+      ]
+    },
     {
       "displayName": "Flood Bridge",
       "typeName": "Flood Bridge",
