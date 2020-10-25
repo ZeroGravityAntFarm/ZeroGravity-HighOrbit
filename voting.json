@@ -722,8 +722,8 @@
       ]
     },
     {
-      "displayName": "Bruhfield",
-      "typeName": "Death Mountain Z",
+      "displayName": "BruhfieldTEST",
+      "typeName": "Bruhfield VI",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 1",
