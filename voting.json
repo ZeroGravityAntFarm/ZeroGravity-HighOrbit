@@ -590,20 +590,6 @@
       ]
     },
     {
-      "displayName": "Fiesta Hangar",
-      "typeName": "Fiesta Hangar",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Fiesta Hangar",
-          "mapName": "Fiesta Hangar"
-        }
-      ]
-    },
-    {
       "displayName": "Clock",
       "typeName": "Clock",
       "commands": [
@@ -721,36 +707,6 @@
         }
       ]
     },
-    {
-      "displayName": "BruhfieldTEST",
-      "typeName": "Bruhfield VI",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 1",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Bruhfield VI",
-          "mapName": "Bruhfield VI"
-        }
-      ]
-    },    
-    {
-      "displayName": "Bruhfield V",
-      "typeName": "Bruhfield V",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 1",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Bruhfield V",
-          "mapName": "Bruhfield V"
-        }
-      ]
-    },    
     {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
