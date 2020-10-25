@@ -676,7 +676,37 @@
           "mapName": "Predator"
         }
       ]
-    },   
+    },
+    {
+      "displayName": "Reverance",
+      "typeName": "Reverance",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Reverance",
+          "mapName": "Reverance"
+        }
+      ]
+    },
+    {
+      "displayName": "DoD Party Bus",
+      "typeName": "DoD Party Bus",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "DoD Party Bus",
+          "mapName": "DoD Party Bus"
+        }
+      ]
+    },
     {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
