@@ -722,21 +722,6 @@
       ]
     },
     {
-      "displayName": "BruhfieldTEST",
-      "typeName": "Bruhfield VI",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 1",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Bruhfield VI",
-          "mapName": "Bruhfield VI"
-        }
-      ]
-    },    
-    {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
       "commands": [
