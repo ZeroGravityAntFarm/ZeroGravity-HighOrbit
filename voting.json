@@ -722,6 +722,20 @@
       ]
     },
     {
+      "displayName": "Transcendence",
+      "typeName": "transcendence",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "transcendence",
+          "mapName": "transcendence"
+        }
+      ]
+    },
+    {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
       "commands": [
