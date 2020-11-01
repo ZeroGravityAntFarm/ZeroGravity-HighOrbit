@@ -722,6 +722,21 @@
       ]
     },
     {
+      "displayName": "Doomslayer",
+      "typeName": "DOOMBOX",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Doomslayer",
+          "mapName": "DOOMBOX"
+        }
+      ]
+    },
+    {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
       "commands": [
