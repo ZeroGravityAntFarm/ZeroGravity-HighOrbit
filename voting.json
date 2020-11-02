@@ -590,20 +590,6 @@
       ]
     },
     {
-      "displayName": "Fiesta Hangar",
-      "typeName": "Fiesta Hangar",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Fiesta Hangar",
-          "mapName": "Fiesta Hangar"
-        }
-      ]
-    },
-    {
       "displayName": "Clock",
       "typeName": "Clock",
       "commands": [
@@ -722,16 +708,17 @@
       ]
     },
     {
-      "displayName": "Transcendence",
-      "typeName": "transcendence",
+      "displayName": "Doomslayer",
+      "typeName": "DOOMBOX",
       "commands": [
         "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0"
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
       ],
       "SpecificMaps": [
         {
-          "displayName": "transcendence",
-          "mapName": "transcendence"
+          "displayName": "DOOMBOX",
+          "mapName": "DOOMBOX"
         }
       ]
     },
