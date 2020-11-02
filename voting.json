@@ -1,3 +1,4 @@
+
 {
   "Maps": [
     {
@@ -529,7 +530,7 @@
           "mapName": "Skycastle 1.1VL"
         }
       ]
-    },	
+    },
     {
       "displayName": "Pandemic Express",
       "typeName": "Pandemic Express V1.1",
@@ -565,7 +566,7 @@
       "typeName": "MT Fiesta",
       "commands": [
         "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0"  
+        "Server.AssassinationEnabled 0"
       ],
       "SpecificMaps": [
         {
@@ -586,6 +587,21 @@
         {
           "displayName": "Death Mountain Z",
           "mapName": "Death Mountain Z"
+        }
+      ]
+    },
+    {
+      "displayName": "Bunker War",
+      "typeName": "Bunker War",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 1",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Bunker War",
+          "mapName": "Bunker War"
         }
       ]
     },
@@ -647,7 +663,7 @@
           "mapName": "Argo"
         }
       ]
-    },    
+    },
     {
       "displayName": "Predator",
       "typeName": "Predator",
@@ -705,6 +721,20 @@
         {
           "displayName": "DOOMBOX",
           "mapName": "DOOMBOX"
+        }
+      ]
+    },
+    {
+      "displayName": "Transcendence",
+      "typeName": "transcendence",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "transcendence",
+          "mapName": "transcendence"
         }
       ]
     },
