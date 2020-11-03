@@ -724,6 +724,36 @@
         }
       ]
     },
+	{
+      "displayName": "Infection",
+      "typeName": "Outbreak Escape",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Outbreak Escape",
+          "mapName": "Outbreak Escape"
+        }
+      ]
+    },
+    {
+      "displayName": "Team Fiesta",
+      "typeName": "Subway Fiesta",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Subway Fiesta",
+          "mapName": "Subway Fiesta"
+        }
+      ]
+    },
     {
       "displayName": "Transcendence",
       "typeName": "transcendence",
