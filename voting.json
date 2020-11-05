@@ -724,7 +724,22 @@
         }
       ]
     },
-	{
+    {
+      "displayName": "Reconciliation",
+      "typeName": "Reconciliation",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Reconciliation",
+          "mapName": "Reconciliation"
+        }
+      ]
+    },
+    {
       "displayName": "Infection",
       "typeName": "Outbreak Escape",
       "commands": [
