@@ -724,7 +724,7 @@
         }
       ]
     },
-	{
+    {
       "displayName": "Reconciliation",
       "typeName": "Reconciliation",
       "commands": [
@@ -739,7 +739,7 @@
         }
       ]
     },
-	{
+    {
       "displayName": "Infection",
       "typeName": "Outbreak Escape",
       "commands": [
