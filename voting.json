@@ -725,6 +725,36 @@
       ]
     },
     {
+      "displayName": "Team HogLaunch",
+      "typeName": "Team HogLaunch",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Team HogLaunch",
+          "mapName": "Team HogLaunch"
+        }
+      ]
+    },
+    {
+      "displayName": "Crossed Fire",
+      "typeName": "Crossed Fire",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Crossed Fire",
+          "mapName": "Crossed Fire"
+        }
+      ]
+    },
+    {
       "displayName": "Reconciliation",
       "typeName": "Reconciliation",
       "commands": [
