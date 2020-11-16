@@ -769,6 +769,19 @@
       ]
     },
     {
+      "displayName": "Alien",
+      "typeName": "Starship Nostromo",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Starship Nostromo",
+          "mapName": "Starship Nostromo"
+     },
+     {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
       "commands": [
