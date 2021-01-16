@@ -52,8 +52,8 @@
   ],
   "Types": [
     {
-      "displayName": "Fatkid Levelz III",
-      "typeName": "Fatkid Levelz III",
+      "displayName": "Fatkid",
+      "typeName": "Fatkid Level III",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -61,11 +61,19 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Fatkid Levelz III",
-          "mapName": "Fatkid Levelz III"
+          "displayName": "Fatkid Level III",
+          "mapName": "Fatkid Level III"
         }
       ]
     },
+    {
+      "displayName": "Escape!",
+      "typeName": "Warehouse v1.5",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
       "SpecificMaps": [
         {
           "displayName": "Warehouse v1.5",
