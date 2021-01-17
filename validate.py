@@ -22,10 +22,9 @@ for folder in get_folders(directory):
 with open(voting, 'r') as f:
     try:
         json_data = json.load(f)
-    except Exception as e:
+    except:
         clean = 1
         print('[JSON ERROR] - Voting.json is invalid json.')
-        print(e)
         exit()
 
 for gameType in json_data['Types']:
